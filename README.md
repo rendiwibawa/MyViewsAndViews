@@ -18,7 +18,7 @@ Contoh komponen viewgroup adalah:
 
 ## Tampilan
 
-![ALT TEXT](https://github.com/rendiwibawa/MyViewsAndViews/blob/master/atas.jpeg)
+![ALT TEXT](https://github.com/rendiwibawa/MyViewsAndViews/blob/master/deskripsi.jpeg)
 
 ## Tampil FULL
 
