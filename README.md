@@ -3,9 +3,13 @@
 > ViewsAndViews adalah sebuah obyek yang mewadahi obyek-obyek view dan
 viewgroup itu sendiri sehingga membentuk satu kesatuan tampilan aplikasi yang utuh.
 Contoh komponen viewgroup adalah:
+
 >  LinearLayout
+
 >  FrameLayout
+
 >  RelativeLayout
+
 >  TableLayout
 
 > Enjoy Duds
