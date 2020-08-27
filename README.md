@@ -12,7 +12,6 @@ Contoh komponen viewgroup adalah:
 
 >  TableLayout
 
-> Enjoy Duds
 ## Tampilan 
 
 ![ALT TEXT](https://github.com/rendiwibawa/MyViewsAndViews/blob/master/atas.jpeg)
