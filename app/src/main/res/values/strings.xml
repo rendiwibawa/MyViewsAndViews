@@ -1,19 +1,15 @@
 <resources>
     <string name="app_name">MyViewAndViews</string>
     <string name="judul_text">Asus ROG </string>
-    <string name="deskripsi">Layaknya ROG Phone generasi pertama, Asus juga membuat ponsel ini dengan desain kokoh, lengkap dengan logo khas ROG pada bagian punggung ponsel.
-
-Layar seluas 6,59 inci milik ROG Phone II ini dilengkapi dengan proteksi Gorilla Glass 6. Layar tersebut juga memiliki angka refresh rate 120 Hz.
-
-Pada sektor dapur pacu, ROG Phone II dibekali chipset Snapdragon 855 dengan GPU Adreno 640 yang mampu digunakan untuk bermain game dengan konfigurasi tinggi.</string>
-    <string name="layar">Ukuran Layar : 6.0 inci AMOLED, 1080 x 2160 pixels. </string>
-    <string name="Chipset">Chipset : Qualcomm SDM845 Snapdragon 845 (10 nm) </string>
-    <string name="os"> OS : Android 8.1 (Oreo)</string>
-    <string name="ram">RAM: 8GB.</string>
-    <string name="memori">Memori internal : 128GB / 512GB. </string>
-    <string name="Ukuran">Ukuran HP : 158.8 x 76.2 x 8.3 mm.</string>
-    <string name="berat">Berat HP : 200 g.</string>
-    <string name="kamera">Kamera depan : 8 MP, f/2.0 (wide)</string>
+    <string name="deskripsi">Laptop gaming Asus ROG GL503GE EN023T ditenagai grafis GeForce GTX 1050 Ti yang mengandalkan 768 CUDA core berkecepatan 1493MHz dan Turbo hingga 1620MHz yang dipadukan dengan 48 TMUs, dan 32 ROPs. Kartu grafis GeForce GTX 1050Ti pada laptop ROG GL503GE EN023T dikawinkan dengan memori VRAM 4GB GDDR5 berkecepatan 7GHz dengan antarmuka memori 128-bit.</string>
+    <string name="layar">15.6-inch Full HD (1920×1080) TN panel, 120Hz, 3ms, 94% NTSC</string>
+    <string name="Chipset">Intel® Core™ i7-8750H Processor 2.2 GHz (9M Cache, up to 4.1 GHz) </string>
+    <string name="ram">8GB DDR4 2666MHz, upgradeable to 32GB DDR4</string>
+    <string name="memori">Storage SSHD Hard Disk 1TB 5400 rpm + 8GB SSD cache, dilengkapi M.2 slot untuk SSD</string>
+    <string name="Ukuran">Dimensi 38.4 x 26.2 x 2.5 cm (WxDxH) </string>
+    <string name="berat">Berat 2,6Kg</string>
+    <string name="Jumlah">3 Photos</string>
+    <string name="buy_now">BUY NOW</string>
 
 
 </resources>
